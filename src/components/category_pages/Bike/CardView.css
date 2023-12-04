@@ -1,0 +1,36 @@
+/* .container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+.box {
+    height: 320px;
+    width: 300px;
+    background-color: white;
+    border: 8px rgb(209, 207, 207) solid;
+    border-radius: 10px;
+    margin: 10px;
+
+}
+
+.card-img {
+    position: relative;
+    height: 200px;
+    width: 285px;
+    border-bottom: 1px solid rgb(209, 207, 207);
+
+}
+
+.card-body {
+    padding-left: 20px;
+   
+}
+
+.pname {
+    height: 35px;
+    
+    overflow: hidden;
+
+} */

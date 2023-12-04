@@ -1,0 +1,29 @@
+/* * {
+    margin: 0;
+    box-sizing: border-box;
+  
+
+} */
+
+/* .registration_container{
+    background-image: url("../components/limages/signup.jpg");
+    background-repeat: no-repeat;
+    background-size: 55%;
+    background-position: left;
+    
+} */
+.registration_form {
+    background-color: rgb(221, 224, 254);
+    box-shadow: 0 0.188em 1.550em rgb(100, 156, 156) ;
+    border-radius: 10px;
+    padding: 0px 20px;
+    
+}
+.form-control{
+    border: 1px solid rgb(0, 0, 0);
+    
+}
+.form a{
+text-decoration:  none;
+margin:1.4em;
+}

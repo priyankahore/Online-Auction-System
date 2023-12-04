@@ -1,0 +1,13 @@
+
+li{
+    list-style: none;
+}
+
+#link-list,p{
+    text-decoration: none;
+    color: rgb(156, 169, 194)
+}
+
+#link-list:hover{
+    color:rgb(0, 149, 255);
+}
